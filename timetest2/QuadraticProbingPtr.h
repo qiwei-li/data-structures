@@ -1,4 +1,3 @@
-//Author: Qiwei Li, Jiaping Zhang
         #ifndef _QUADRATIC_PROBING_PTR_H_
         #define _QUADRATIC_PROBING_PTR_H_
 

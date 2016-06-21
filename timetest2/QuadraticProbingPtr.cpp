@@ -1,4 +1,3 @@
-//Author: Qiwei Li, Jiaping Zhang
         #include "QuadraticProbing.h"
 
 

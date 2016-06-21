@@ -25,9 +25,23 @@ small projects, solving problems with data structures and algorithms in C++
 
 * __BTree__
  
- This is my own implementation of the BTree data structure. The program will read a file that contains a series of integers that it will insert into the BTree, and then print the _breadth first traversal_ of the BTree.
+ This is my own implementation of the BTree data structure. The program will read a file that contains a series of integers that it will insert into the BTree, and then print the _breadth first traversal_ of the BTree. The program will take three command line parameters: 
+    * filename, 
+    * M (the number of children that internal nodes have), 
+    * L (the number of integers each leaf node holds).
   
 * __timetest2__
+
+ _timetest3.cpp_ will compare the speed of different operations of searching, inserting, and deleting with the following data structures.
+    * Skip List
+    * BST
+    * AVL
+    * Splay
+    * BTree
+    * Separate Chaining Hash
+    * Quadratic Probing Hash
+    * Quadratic Probing Pointer Hash
+    * Binary Heap 
 
 * __simulateCache__
 * __powerGrid__
