@@ -1,4 +1,3 @@
-//Author:Qiwei Li, Jiaping Zhang
 #ifndef InternalNodeH
   #define InternalNodeH
 

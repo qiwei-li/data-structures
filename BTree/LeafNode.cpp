@@ -1,4 +1,3 @@
-//Author: Qiwei Li, Jiaping Zhang
 #include <iostream>
 #include "LeafNode.h"
 #include "InternalNode.h"

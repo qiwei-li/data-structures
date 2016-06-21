@@ -24,7 +24,8 @@ small projects, solving problems with data structures and algorithms in C++
     * Skip List
 
 * __BTree__
-This is 
+ 
+ This is my own implementation of the BTree data structure. The program will read a file that contains a series of integers that it will insert into the BTree, and then print the _breadth first traversal_ of the BTree.
   
 * __timetest2__
 
