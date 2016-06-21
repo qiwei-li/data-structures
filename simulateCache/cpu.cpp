@@ -1,4 +1,3 @@
-//Qiwei Li, Jiaping Zhang
 #include "cpu.h"
 
 CPU::CPU()

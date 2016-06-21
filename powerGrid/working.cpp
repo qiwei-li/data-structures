@@ -1,5 +1,3 @@
-// Author: Qiwei Li, Jiaping Zhang
-
 #include "grid.h"
 
 Grid::Grid(int gridSize, const Block *blocks, int previous[])

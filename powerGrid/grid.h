@@ -1,4 +1,3 @@
-// Author: Qiwei Li, Jiaping Zhang
 #ifndef gridH
 #define gridH
 #define INF 999999999

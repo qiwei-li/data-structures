@@ -1,9 +1,6 @@
 # data-structures-and-algorithms
 small projects, solving problems with data structures and algorithms in C++ 
 
-##Authors
-* Qiwei Li
-
 ## files
 * __bags__
 
@@ -44,4 +41,9 @@ small projects, solving problems with data structures and algorithms in C++
     * Binary Heap 
 
 * __simulateCache__
+
+ This program is a CPU cache simulator that has all of it data structures fit in 64000 bytes. The goal is to minimize the time as well as the number of reads and writes to/from simulated RAM caused by cache misses processing one million ADD instructures.
+ 
 * __powerGrid__
+
+ This program is an electrical grid optimizer that determines the path of electrical power to each block to minimize the electrical loss. Electrical blocks 0-9 are connected directly to the power house, the rest are connected to with three or five other blocks (directed). The program will print the 
