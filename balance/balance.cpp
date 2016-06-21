@@ -1,4 +1,3 @@
-//Authors: Qiwei Li, Jiaping Zhang
 #include <cstdlib>
 #include <iostream>
 #include <fstream>

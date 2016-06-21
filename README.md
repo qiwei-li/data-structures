@@ -3,7 +3,6 @@ small projects, solving problems with data structures and algorithms in C++
 
 ##Authors
 * Qiwei Li
-* Jiaping Zhang
 
 ## files
 * __bags__
@@ -23,9 +22,11 @@ small projects, solving problems with data structures and algorithms in C++
     * Stack List
     * Queue Array
     * Skip List
-    
+
+* __BTree__
+This is 
   
 * __timetest2__
-* __BTree__
+
 * __simulateCache__
 * __powerGrid__
